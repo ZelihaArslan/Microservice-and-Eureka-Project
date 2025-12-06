@@ -12,6 +12,8 @@
     <modules>
         <module>isciService</module>
         <module>bolumService</module>
+        <module>apiGateway</module>
+        <module>serviceRegistry</module>
     </modules>
 
 </project>
